@@ -1,1 +1,1 @@
-# PyQT_LED_Matrix
+# PyQT LED Matrix
