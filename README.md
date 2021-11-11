@@ -5,12 +5,33 @@
 
 ![git](https://user-images.githubusercontent.com/73754515/141193872-7082b0a5-6132-4e7a-a663-fe43c1946384.png)
 
-## Подключение
+<br><br>
 
-![Untitled Sketch 2_bb](https://user-images.githubusercontent.com/73754515/140663943-771e519d-20ea-4a23-9c28-2899f0da5aa7.png)
+## Использованные технологии
+
+- Serial
+- Tools - serial.tools.list_ports
+- Sqlite3
+- Pillow
+- Time
+
+<br><br>
+
+## Подключение
+<img align="right" width="489" height="246" src="https://user-images.githubusercontent.com/73754515/140663943-771e519d-20ea-4a23-9c28-2899f0da5aa7.png">
 
 - VCC --> 5V
 - GND --> GND
 - DIN --> D7
 - CS --> D5
 - CLK --> D6
+
+<br><br>
+
+## Заключение
+
+- Уменьшить задержку
+- Добавить возможность отображать гифку на матрице
+- Подключить несколько матриц вместе
+- Управлять дистанционно через блютуз или вайфай
+
